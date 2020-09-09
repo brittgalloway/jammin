@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_options_repeat_text_fields",
+  "info": {
+    "name": "repeat_text_field",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "Variant": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "stock": {
+      "type": "integer"
+    },
+    "weight": {
+      "type": "float"
+    },
+    "width": {
+      "type": "float"
+    },
+    "height": {
+      "type": "float"
+    }
+  }
+}
